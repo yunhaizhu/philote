@@ -5,7 +5,7 @@
   "keywords": ["golang", "websockets"],
   "buildpacks": [
     {
-      "url": "https://github.com/lucasefe/heroku-buildpack-go"
+      "url": "https://github.com/heroku/heroku-buildpack-go.git"
     }
   ],
   "env": {
